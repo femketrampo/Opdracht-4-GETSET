@@ -1,0 +1,14 @@
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\bin\Debug\netcoreapp3.1\Opdracht-4-GETSET.exe
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\bin\Debug\netcoreapp3.1\Opdracht-4-GETSET.deps.json
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\bin\Debug\netcoreapp3.1\Opdracht-4-GETSET.runtimeconfig.json
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\bin\Debug\netcoreapp3.1\Opdracht-4-GETSET.runtimeconfig.dev.json
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\bin\Debug\netcoreapp3.1\Opdracht-4-GETSET.dll
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\bin\Debug\netcoreapp3.1\Opdracht-4-GETSET.pdb
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.csproj.AssemblyReference.cache
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.AssemblyInfoInputs.cache
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.AssemblyInfo.cs
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.csproj.CoreCompileInputs.cache
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.dll
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.pdb
+C:\Users\femke\source\repos\Opdracht-4-GETSET\Opdracht-4-GETSET\obj\Debug\netcoreapp3.1\Opdracht-4-GETSET.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Opdracht-4-GETSET/1.0.0": {
+        "runtime": {
+          "Opdracht-4-GETSET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opdracht-4-GETSET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
